@@ -1,6 +1,6 @@
 # Student guide
 
-## Overview {-}
+## Overview
 
 **Last verified: 2026-09-11**
 
