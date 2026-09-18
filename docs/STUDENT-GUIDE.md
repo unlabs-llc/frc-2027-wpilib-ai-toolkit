@@ -1,5 +1,7 @@
 # Student guide
 
+## Overview {-}
+
 **Last verified: 2026-09-11**
 
 This guide is for the person writing your team's robot code. Other documents in `docs/` are for
